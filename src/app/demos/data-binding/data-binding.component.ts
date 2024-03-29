@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 })
 export class DataBindingComponent {
   public contadorClique: number = 1;
+  public urlImagem: string = "https://angular.io/assets/images/logos/angular/logo-nav@2x.png"
 }

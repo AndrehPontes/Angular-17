@@ -6,4 +6,8 @@
     <button class="btn btn-info" [disabled]="contadorClique >= 10"> Info</button>
     <br><br>
     <img [src]="urlImagem" >
+    <h3> Event Binding</h3>
+    <button class="btn btn-warning" (click)="adicionarClique()"> Clique-me</button>
+    <button class="btn btn-danger" (click)="zerarContador()" [disabled]="contadorClique < 10"> Zerar Contador</button>
+    <br><br>
 </div>

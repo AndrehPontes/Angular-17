@@ -1,12 +1,12 @@
 {
-    "products": [
+    "produtos": [
         {
             "id": 1,
             "nome": "Mouse Logitech",
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/shape-zero-3-skulls-blood-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-Chris-Wimer-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-James-Thomas-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-James-Thomas-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-Thomas-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-Thomas-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-Thomas-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-Thomas-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 9,
@@ -70,7 +70,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-Thomas-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 10,
@@ -78,7 +78,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-Thomas-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 11,
@@ -86,7 +86,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-Thomas-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 12,
@@ -94,7 +94,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-Thomas-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 13,
@@ -102,7 +102,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-Thomas-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 14,
@@ -110,7 +110,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-Thomas-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 15,
@@ -118,7 +118,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-Thomas-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 16,
@@ -126,7 +126,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-Thomas-Nativos-Skate-Shop.jpg"
         },
         {
             "id": 17,
@@ -134,7 +134,7 @@
             "valor": 200,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "mouse.jpg"
+            "imagem": "assets/img/products/Shape-Zero-Thomas-Nativos-Skate-Shop.jpg"
         }
     ]
 }
